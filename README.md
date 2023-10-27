@@ -1,10 +1,10 @@
 # Tunify
 Welcome to Tunify, where music meets your vibes! 🎶
 
-Overview
+#Overview
 Tunify is a music discovery platform that goes beyond genres, crafting personalized recommendations tailored to your unique taste. Powered by cutting-edge technology, Tunify integrates with the Spotify API, providing real-time access to a vast music database for a dynamic and comprehensive music experience.
 
-Features
+#Features
 1. Spotify API Integration
 Real-time Music Data: Direct integration with Spotify's API ensures up-to-date information, delivering a dynamic music exploration experience.
 
