@@ -1,5 +1,4 @@
 # Tunify
-<<<<<<< HEAD
 Welcome to Tunify, where music meets your vibes! 🎶
 
 # Overview
