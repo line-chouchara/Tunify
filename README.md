@@ -26,7 +26,7 @@ Intuitive User Interface: The front-end serves as the window for user interactio
 Real-world Testing: Allow room for final refinements based on real-world usage, ensuring a robust and user-friendly platform.
 
 # Getting Started
-Prerequisites
+**Prerequisites**
 
 Python installed (version 3.0.12)
 
