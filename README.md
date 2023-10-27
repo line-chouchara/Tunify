@@ -27,7 +27,9 @@ Real-world Testing: Allow room for final refinements based on real-world usage, 
 
 # Getting Started
 Prerequisites
+
 Python installed (version 3.0.12)
+
 Spotify account
 
 # Installation
