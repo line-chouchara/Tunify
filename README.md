@@ -1,4 +1,5 @@
 # Tunify
+<<<<<<< HEAD
 Welcome to Tunify, where music meets your vibes! 🎶
 
 # Overview
@@ -68,3 +69,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+Recommendation Song Project
+>>>>>>> 3fc84c3 (Revert "read me")
