@@ -72,3 +72,13 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
 Recommendation Song Project
 >>>>>>> 3fc84c3 (Revert "read me")
+
+#back end
+
+```
+pip install fastapi
+pip install uvicorn
+pip install spotipy
+pip install itsdangerous
+uvicorn main:app --reload
+```
